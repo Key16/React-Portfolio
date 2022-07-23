@@ -7,6 +7,7 @@
 This portfolio is designed to use React and shows all of my past projects. It is uploaded live to heroku [here](https://jess-react-portfolio.herokuapp.com/)
 
 ![Portfolio](./public/portfolioss.png)
+![ContactMe](./public/portfolio2ss.png)
 
 ## Table of Contents
 
